@@ -1,4 +1,4 @@
-# RecSys Project - Group 33
+# RecSys Project 
 
 For our project, we had a look at multiple recommender models.
 
